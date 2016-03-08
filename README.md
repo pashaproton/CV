@@ -37,6 +37,10 @@
 `C`, `C++`, `Java`, `PHP`, `JavaScript`
 
 ---
+## Code samples
+[AngularJS](http://pashaproton.github.io/example-angular-js/)
+
+---
 [facebook]: http://www.facebook.com/pasha.proton
 [fcbook]: http://www.jacobsen.com/themes/jacobsen/images/icons/facebook-icon-small.png
 [twitter]: https://twitter.com/pashaproton
