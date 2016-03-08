@@ -22,7 +22,7 @@
 > Work as tech lead. Work in ecommerce sector. Make shops for different clients on the Yii framework. Have two guys under me. One PHP software developer, another one markup developer.
 
 ---
-#### Valant &emsp; <small>*2010 - 2010*</small>
+#### Valant &emsp; <small>*2010 - 2014*</small>
 `PHP`, `JavaScript`, `jQuery`, `MySQL`
 > Work as regular software developer. Bug fixing, creating new features, develop DB schemas.
 
