@@ -12,17 +12,17 @@
 
 ---
 ## Experience
-#### EPAM Systems &emsp; <small>*2015 - current*</small>
-`JavaScript`, `AngularJS`, `MySQL`
+#### EPAM Systems &emsp; <small>*2014 - current*</small>
+`JavaScript`, `ES6`, `AngularJS`, `ReactJS`, `Node.js`, `MongoDB`, `MySQL`
 > Working as regular software developer. Bug fixing, creating new features. Participate in mentoring program as a mentor for junior software developer who want learn front-end.
 
 ---
-#### Turumburum &emsp; <small>*2014 - 2015*</small>
+#### Turumburum &emsp; <small>*2013 - 2014*</small>
 `PHP`, `JavaScript`, `AngularJS`, `Backbone.js`, `Marionette.js`, `jQuery`, `MySQL`
 > Work as tech lead. Work in ecommerce sector. Make shops for different clients on the Yii framework. Have two guys under me. One PHP software developer, another one markup developer.
 
 ---
-#### Valant &emsp; <small>*2010 - 2014*</small>
+#### Valant &emsp; <small>*2010 - 2013*</small>
 `PHP`, `JavaScript`, `jQuery`, `MySQL`
 > Work as regular software developer. Bug fixing, creating new features, develop DB schemas.
 
