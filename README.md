@@ -26,6 +26,20 @@
 `PHP`, `JavaScript`, `jQuery`, `MySQL`
 > Work as regular software developer. Bug fixing, creating new features, develop DB schemas.
 
+> Projects:
+- Blog.imageprocessor *July 2013 to August 2013*
+- 230Reservation *April 2013 to July 2013*
+- ForwardMetrics *December 2012 to October 2013*
+- [Ledified](//www.ledified.com.au/) *October 2012 to December 2012*
+- The Iroko Tree *May 2012 to June 2012*
+- Managetables *April 2012 to August 2012*
+- [RoboSite](//robosite.com/) *January 2012 to September 2013*
+- [ADECHO](//adecho.com) *August 2011 to January 2012*
+- Schedule Management System *June 2011 to August 2011*
+- [Tilted Pixel](//www.tiltedpixel.com/) *June 2011 to August 2011*
+- [Novozymes](//www.novozymes.com/) *April 2011 to May 2011*
+- [Rentvalet.us](//rentvalet.us) *October 2010 to March 2011*
+
 ---
 #### AppDraggon &emsp; <small>*2010 - 2010*</small>
 `PHP`, `JavaScript`, `jQuery`, `MySQL`
