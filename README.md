@@ -16,6 +16,12 @@
 `JavaScript`, `ES6`, `AngularJS`, `ReactJS`, `Node.js`, `MongoDB`, `MySQL`
 > Working as regular software developer. Bug fixing, creating new features. Participate in mentoring program as a mentor for junior software developer who want learn front-end.
 
+> Projects:
+- [Meteogroup](//www.meteogroup.com/) *2 May 2016 to present*
+- Recruitment process tool - EPAM internal project for HR department *1 November 2015 to 29 April 2016*
+- [Ryanair](//www.ryanair.com) *25 January 2015 to 31 October 2015*
+- Bench time, working with small internal test projects *1 September 2014 to 23 January 2015*
+
 ---
 #### Turumburum &emsp; <small>*2013 - 2014*</small>
 `PHP`, `JavaScript`, `AngularJS`, `Backbone.js`, `Marionette.js`, `jQuery`, `MySQL`
