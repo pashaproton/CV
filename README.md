@@ -21,6 +21,10 @@
 `PHP`, `JavaScript`, `AngularJS`, `Backbone.js`, `Marionette.js`, `jQuery`, `MySQL`
 > Work as tech lead. Work in ecommerce sector. Make shops for different clients on the Yii framework. Have two guys under me. One PHP software developer, another one markup developer.
 
+> Projects:
+- [Pumpanda](//pumpanda.com/) *3 January 2014 to 31 August 2014*
+- Epicsell *22 October 2013 to 31 August 2014*
+
 ---
 #### Valant &emsp; <small>*2010 - 2013*</small>
 `PHP`, `JavaScript`, `jQuery`, `MySQL`
