@@ -18,6 +18,10 @@
 
 > Projects:
 - [Meteogroup](//www.meteogroup.com/) *2 May 2016 to present*
+  - Participate in developing application structure
+  - Develop Angular 2 application from scratch
+  - Write Angular2 using TypeScript
+  - Use TDD and BDD methodology
 - Recruitment process tool - EPAM internal project for HR department *1 November 2015 to 29 April 2016*
 - [Ryanair](//www.ryanair.com) *25 January 2015 to 31 October 2015*
 - Bench time, working with small internal test projects *1 September 2014 to 23 January 2015*
