@@ -3,16 +3,24 @@
 ---
 
 > #### Software Engineer
-> #####  Krakow, Poland
+> #####  Warsaw, Poland
 > [Pavlo Ivanichenko][facebook] ![fcbook][]
 
 ---
 > Strong technical skill-set, attention to detail​​, highly motivated IT Professional with over 5 years of experience in software development following the best practices for development cycle and code design. I have both technical and interpersonal skills and am looking for a challenging role that utilises my previous skills and experiences.
 
-
 ---
 ## Experience
-#### EPAM Systems &emsp; <small>*2014 - current*</small>
+#### SoftLight sp.z o.o &emsp; <small>*2016 - current*</small>
+> SEO
+
+---
+#### FirstData &emsp; <small>*2016 - current*</small>
+`JavaScript`, `TypeScript`, `ES6`, `AngularJS`, `Node.js`
+> Develop international application for FirstData clients
+
+---
+#### EPAM Systems &emsp; <small>*2014 - 2016*</small>
 `JavaScript`, `ES6`, `AngularJS`, `ReactJS`, `Node.js`, `MongoDB`, `MySQL`
 > Working as regular software developer. Bug fixing, creating new features. Participate in mentoring program as a mentor for junior software developer who want learn front-end.
 
