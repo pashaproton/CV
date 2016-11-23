@@ -12,7 +12,7 @@
 ---
 ## Experience
 #### SoftLight sp.z o.o &emsp; <small>*2016 - current*</small>
-> SEO
+> CEO
 
 ---
 #### FirstData &emsp; <small>*2016 - current*</small>
