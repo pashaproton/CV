@@ -17,7 +17,11 @@
 ---
 #### FirstData &emsp; <small>*2016 - current*</small>
 `JavaScript`, `TypeScript`, `ES6`, `AngularJS`, `Node.js`
-> Develop international application for FirstData clients
+>
+- Develop of international financial applications for the FirstData clients
+- Develop the FirstData polish portal
+- Lead of UI team
+- Interviewing candidates
 
 ---
 #### EPAM Systems &emsp; <small>*2014 - 2016*</small>
