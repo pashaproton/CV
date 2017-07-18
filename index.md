@@ -2,8 +2,9 @@
 
 ---
 
-> #### Software Engineer
-> #####  Warsaw, Poland
+> #### Founder of "Front End Family" and Software Engineer
+> ##### Kharkiv, Ukraine
+> ##### Krakow, Poland,
 > [Pavlo Ivanichenko][facebook] ![fcbook][]
 
 ---
@@ -11,13 +12,26 @@
 
 ---
 ## Experience
+#### Front End Family &emsp; <small>*2017 - current*</small>
+> Founder
+
+> Technologies: `JavaScript`, `React.js`
+
+> Projects:
+- [Zulu5](http://www.zulu5.com/en/) *2 May 2017 to present*
+
+---
 #### SoftLight sp.z o.o &emsp; <small>*2016 - current*</small>
 > CEO
 
 ---
 #### FirstData &emsp; <small>*2016 - current*</small>
 `JavaScript`, `TypeScript`, `ES6`, `AngularJS`, `Node.js`
-> Develop international application for FirstData clients
+>
+- Develop of international financial applications for the FirstData clients
+- Develop the FirstData polish portal
+- Lead of UI team
+- Interviewing candidates
 
 ---
 #### EPAM Systems &emsp; <small>*2014 - 2016*</small>
