@@ -2,7 +2,7 @@
 
 ---
 
-> #### Software Engineer
+> #### Founder of "Front End Family" and Software Engineer
 > ##### Kharkiv, Ukraine
 > ##### Krakow, Poland,
 > [Pavlo Ivanichenko][facebook] ![fcbook][]
