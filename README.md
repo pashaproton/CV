@@ -3,7 +3,8 @@
 ---
 
 > #### Software Engineer
-> #####  Warsaw, Poland
+> ##### Kharkiv, Ukraine
+> ##### Krakow, Poland,
 > [Pavlo Ivanichenko][facebook] ![fcbook][]
 
 ---
@@ -11,6 +12,15 @@
 
 ---
 ## Experience
+#### Front End Family &emsp; <small>*2017 - current*</small>
+> Founder
+
+> Technologies: `JavaScript`, `React.js`
+
+> Projects:
+- [Zulu5](http://www.zulu5.com/en/) *2 May 2017 to present*
+
+---
 #### SoftLight sp.z o.o &emsp; <small>*2016 - current*</small>
 > CEO
 
